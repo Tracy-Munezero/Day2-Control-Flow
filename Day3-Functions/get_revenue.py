@@ -8,4 +8,3 @@ pricePerKg = float (input("Enter price per kg: "))
 
 total_revenue = calculate_revenue(yieldValue, pricePerKg)
 print(f"Total Revenue for {cropName}: {total_revenue:.2f}")
-
